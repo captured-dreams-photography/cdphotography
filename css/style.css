@@ -9,7 +9,7 @@ body{background:#0e0e0e;color:#fff;line-height:1.6}
     height: 100vh;
     background:
         linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
-        url("../images/hero.jpg");
+        url("../images/hero.jpeg");
     background-size: cover;
     background-position: center;
     display: flex;
